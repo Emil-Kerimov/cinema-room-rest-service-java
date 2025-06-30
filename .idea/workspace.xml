@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e6c3a80-0172-40a2-ada5-e79793319714" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task_12_2/Task_12_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_12_2/exampl/exampl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_12_2/out/production/Task_12_2/exampl.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/test/CinemaTests.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eF6M7Nch43dzo4F4M0OyzgQsId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/stud/Java/web-quiz-engine-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "8c508b9900f92ee11b6071ca8aa11f44",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Cinema_Room_REST_Service_with_Java.Cinema_Room_REST_Service_with_Java-task.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cinema.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #3" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+        <item itemvalue="HTTP Request.generated-requests | #4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SqlInitializationState">
+    <taskDatabasesInitialized>
+      <option value="jdbc:h2:file:C:/stud/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/A change of plans/db/db" />
+      <option value="jdbc:h2:file:C:/stud/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/Take your seat/db/db" />
+      <option value="jdbc:h2:file:C:/stud/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/The show begins/db/db" />
+      <option value="jdbc:h2:file:C:/stud/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/The statistics/db/db" />
+      <option value="jdbc:h2:file:C:/Навчання/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/Take your seat/db/db" />
+      <option value="jdbc:h2:file:C:/Навчання/Java/Cinema Room REST Service with Java/Cinema Room REST Service with Java/The show begins/db/db" />
+    </taskDatabasesInitialized>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e6c3a80-0172-40a2-ada5-e79793319714" name="Changes" comment="" />
+      <created>1711487928372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711487928372</updated>
+      <workItem from="1711487932372" duration="2287000" />
+      <workItem from="1711530399529" duration="10363000" />
+      <workItem from="1711656907296" duration="46000" />
+      <workItem from="1714246645487" duration="619000" />
+      <workItem from="1714293349551" duration="1190000" />
+      <workItem from="1714497069729" duration="626000" />
+      <workItem from="1714540532378" duration="31000" />
+      <workItem from="1714813817662" duration="4295000" />
+      <workItem from="1714920331298" duration="707000" />
+      <workItem from="1716931905957" duration="3228000" />
+      <workItem from="1716969739611" duration="15342000" />
+      <workItem from="1717022105011" duration="4851000" />
+      <workItem from="1717026998685" duration="580000" />
+      <workItem from="1717094391205" duration="608000" />
+      <workItem from="1751218742199" duration="4931000" />
+      <workItem from="1751314230397" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
