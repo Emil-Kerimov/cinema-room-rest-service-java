@@ -8,6 +8,42 @@
       <change afterPath="$PROJECT_DIR$/../Task_12_2/Task_12_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task_12_2/exampl/exampl.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task_12_2/out/production/Task_12_2/exampl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/The show begins/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/The show begins/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/configs/CinemaProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/configs/CinemaProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/controllers/CinemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/controllers/CinemaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/models/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/models/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +70,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +82,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/configs/AppConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/configs/CinemaProperties.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/CinemaRoom.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/Seat.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/test/CinemaTests.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -149,7 +189,7 @@
       <workItem from="1717026998685" duration="580000" />
       <workItem from="1717094391205" duration="608000" />
       <workItem from="1751218742199" duration="4931000" />
-      <workItem from="1751314230397" duration="659000" />
+      <workItem from="1751314230397" duration="4038000" />
     </task>
     <servers />
   </component>
