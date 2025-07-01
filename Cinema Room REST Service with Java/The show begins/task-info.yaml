@@ -131,10 +131,16 @@ files:
   - name: src/cinema/configs/AppConfig.java
     visible: true
     learner_created: true
+  - name: src/cinema/services/CinemaRoomService.java
+    visible: true
+    learner_created: true
+  - name: src/resources/application.yml
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/13375#comment
 status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
     to continue learning.
-  time: "Mon, 30 Jun 2025 21:05:58 UTC"
+  time: "Tue, 01 Jul 2025 10:20:17 UTC"
 record: 1

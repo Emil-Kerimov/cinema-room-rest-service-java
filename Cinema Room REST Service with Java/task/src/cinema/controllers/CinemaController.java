@@ -4,6 +4,7 @@ package cinema.controllers;
 import cinema.configs.CinemaProperties;
 import cinema.models.CinemaRoom;
 import cinema.models.Seat;
+import cinema.services.CinemaRoomService;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,16 +17,12 @@ import java.util.List;
 @RestController
 public class CinemaController {
     final CinemaProperties props;
+    final CinemaRoomService cinemaRoomService;
     @GetMapping("/seats")
     CinemaRoom getAvailableSeats(){
         int nRows = props.nRows();
         int nColumns = props.nCols();
-        List<Seat> seats = new ArrayList<>();
-        for (int iRow = 1; iRow <= nRows; iRow++){
-            for (int iCol = 1; iCol <= nColumns; iCol++){
-                seats.add(new Seat(iRow,iCol));
-            }
-        }
+        List<Seat> seats = cinemaRoomService.getAvailableSeats();
         return new CinemaRoom(nRows, nColumns, seats);
     }
 }

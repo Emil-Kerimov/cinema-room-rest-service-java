@@ -23,27 +23,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/Take your seat/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/Take your seat/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/The show begins/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/The show begins/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/CinemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/CinemaController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/resources/main/application.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/configs/CinemaProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/configs/CinemaProperties.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/controllers/CinemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/controllers/CinemaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/models/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/models/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/services/CinemaRoomService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/classes/cinema/services/CinemaRoomService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/out/production/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/test/CinemaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/test/CinemaTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,9 @@
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/CinemaRoom.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/Seat.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/services/CinemaRoomService.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/test/CinemaTests.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JpbToolWindowState">
@@ -104,29 +107,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/stud/Java/web-quiz-engine-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "8c508b9900f92ee11b6071ca8aa11f44",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/stud/Java/web-quiz-engine-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8c508b9900f92ee11b6071ca8aa11f44&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
@@ -142,11 +145,21 @@
     </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Cinema_Room_REST_Service_with_Java.Cinema_Room_REST_Service_with_Java-task.main" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cinema.Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests | #1" />
+      <item itemvalue="HTTP Request.generated-requests | #2" />
+      <item itemvalue="HTTP Request.generated-requests | #3" />
+      <item itemvalue="HTTP Request.generated-requests | #4" />
+      <item itemvalue="Spring Boot.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="HTTP Request.generated-requests | #3" />
@@ -189,7 +202,8 @@
       <workItem from="1717026998685" duration="580000" />
       <workItem from="1717094391205" duration="608000" />
       <workItem from="1751218742199" duration="4931000" />
-      <workItem from="1751314230397" duration="4038000" />
+      <workItem from="1751314230397" duration="5531000" />
+      <workItem from="1751363324226" duration="1664000" />
     </task>
     <servers />
   </component>
