@@ -5,56 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e6c3a80-0172-40a2-ada5-e79793319714" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/test/jar_extract_11694190166718099458_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/test/jar_extract_14873522527105255609_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/test/jar_extract_17575077935746635398_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/test/jar_extract_9443569028241423340_tmp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task_12_2/Task_12_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task_12_2/exampl/exampl.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task_12_2/out/production/Task_12_2/exampl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/A change of plans/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/A change of plans/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/CinemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/CinemaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/ErrorControllerAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/controllers/ErrorControllerAdvice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/exceptions/AlreadyPurchaseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/exceptions/AlreadyPurchaseException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/repositories/CinemaRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/repositories/CinemaRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/services/CinemaRoomService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/main/cinema/services/CinemaRoomService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/test/CinemaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/classes/java/test/CinemaTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/CinemaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/ErrorControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/controllers/ErrorControllerAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/SearCoordinatesOutOfBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/SeatCoordinatesOutOfBoundsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/WrongTokenException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/ReturnedTicketResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/SoldTicket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/TicketReturnRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/repositories/SoldTicketRepo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/services/CinemaRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/services/CinemaRoomService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,11 +57,16 @@
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/AlreadyPurchaseException.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/BusinessException.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/SeatCoordinatesOutOfBoundsException.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/exceptions/WrongTokenException.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/CinemaRoom.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/ErrorDTO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/ReturnedTicketResponse.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/Seat.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/SeatCoordinates.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/SoldTicket.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/models/TicketReturnRequest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/repositories/CinemaRepo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/repositories/SoldTicketRepo.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/cinema/services/CinemaRoomService.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cinema Room REST Service with Java/task/src/resources/application.yml" root0="FORCE_HIGHLIGHTING" />

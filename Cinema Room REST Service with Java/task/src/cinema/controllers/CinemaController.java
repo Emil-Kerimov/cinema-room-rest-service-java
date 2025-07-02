@@ -14,7 +14,7 @@ import java.util.List;
 @AllArgsConstructor
 @RestController
 public class CinemaController {
-    CinemaProperties props;
+    final CinemaProperties props;
     final CinemaRoomService cinemaRoomService;
 
     @GetMapping("/seats")
@@ -26,9 +26,16 @@ public class CinemaController {
     }
 
     @PostMapping("/purchase")
-    Seat purchase(@RequestBody SeatCoordinates seatCoordinates) {
+    SoldTicket purchase(@RequestBody SeatCoordinates seatCoordinates) {
         log.info("Req to /purchase : {}", seatCoordinates);
         return cinemaRoomService.purchase(seatCoordinates);
+    }
+
+    @PostMapping("/return")
+    ReturnedTicketResponse ticketReturn(@RequestBody TicketReturnRequest ticketReturnRequest) {
+        log.info("Req to /return : {}", ticketReturnRequest);
+        Seat seat = cinemaRoomService.ticketReturn(ticketReturnRequest.token());
+        return new ReturnedTicketResponse(seat);
     }
 
 }
