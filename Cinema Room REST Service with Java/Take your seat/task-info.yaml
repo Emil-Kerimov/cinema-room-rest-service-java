@@ -351,9 +351,31 @@ files:
       public class AppConfig {
       }
     learner_created: true
+  - name: src/cinema/models/SeatCoordinates.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/repositories/CinemaRepo.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exceptions/AlreadyPurchaseException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/models/ErrorDTO.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exceptions/SeatCoordinatesOutOfBoundsException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controllers/ErrorControllerAdvice.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exceptions/BusinessException.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/13376#comment
 status: Solved
 feedback:
-  message: Congratulations!
-  time: "Wed, 29 May 2024 09:00:54 UTC"
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 02 Jul 2025 12:12:28 UTC"
 record: 2

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-07-01T23:01:48.720+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "The ticket has been already purchased!",
+  "path": "/purchase"
+}

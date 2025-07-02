@@ -7,4 +7,5 @@ public record CinemaRoom(
         int columns,
         List<Seat> seats
 ) {
+
 }
