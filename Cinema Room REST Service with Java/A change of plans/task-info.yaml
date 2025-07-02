@@ -475,7 +475,7 @@ files:
       public record ErrorDTO(String error) {
       }
     learner_created: true
-  - name: src/cinema/exceptions/SearCoordinatesOutOfBoundsException.java
+  - name: src/cinema/exceptions/SeatCoordinatesOutOfBoundsException.java
     visible: true
     text: |
       package cinema.exceptions;
@@ -700,24 +700,19 @@ files:
   - name: src/cinema/exceptions/BusinessException.java
     visible: true
     learner_created: true
-  - name: src/cinema/models/SoldTicket.java
-    visible: true
-    learner_created: true
-  - name: src/cinema/repositories/SoldTicketRepo.java
-    visible: true
-    learner_created: true
-  - name: src/cinema/models/TicketReturnRequest.java
-    visible: true
-    learner_created: true
-  - name: src/cinema/models/ReturnedTicketResponse.java
-    visible: true
-    learner_created: true
-  - name: src/cinema/exceptions/WrongTokenException.java
-    visible: true
-    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/13377#comment
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: "Wed, 29 May 2024 21:10:19 UTC"
+  message: |-
+    Wrong answer in test #3
+
+    The JSON object shouldn&#39;t have the key &quot;row&quot;
+
+    Full JSON:
+    {
+      &quot;row&quot;: 1,
+      &quot;column&quot;: 1,
+      &quot;price&quot;: 10
+    }
+  time: "Wed, 02 Jul 2025 12:47:05 UTC"
 record: 3
